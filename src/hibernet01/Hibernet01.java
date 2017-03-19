@@ -16,6 +16,8 @@ public class Hibernet01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // para que sirva el commit
+        
     }
     
 }
